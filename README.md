@@ -61,10 +61,10 @@ You're also welcome to modify [CODEOWNERS](https://github.com/mty22/krunker.io-t
 
 ## Contributors
 
-Please click [here](https://github.com/mty22/krunker.io-translations/blob/main/CONTIRBUTORS.md) to view the full list of contributors!
+Please click [here](https://github.com/mty22/krunker.io-translations/blob/main/CONTRIBUTORS.md) to view the full list of contributors!
 
 ## Rewards?
-KR rewards, Discord Trnaslator Contributor role, Krunker translator badge and Krunker account verification are typically awarded based on contribution levels and long term translation support.
+KR rewards, Discord Translator Contributor role, Krunker translator badge and Krunker account verification are typically awarded based on contribution levels and long term translation support.
 
 If you are curious, have a look at both [Payouts/reward guide](https://github.com/mty22/krunker.io-translations/blob/main/kr_payment_guide.txt) and [Payouts sent](https://github.com/mty22/krunker.io-translations/blob/main/kr_payouts.csv).
 
@@ -82,7 +82,7 @@ If you need any assistance, please reach out to Translator Contributors in [Krun
 
 ## Current Krunker language support
 
-As of Krunker version [v5.4.2](https://krunker.io/docs/versions.txt), the following languages have been added to the game:
+As of Krunker version [v5.4.4](https://krunker.io/docs/versions.txt), the following languages have been added to the game:
 
 - [English](https://github.com/mty22/krunker.io-translations/blob/main/en.js)
 - [Spanish](https://github.com/mty22/krunker.io-translations/blob/main/es.js)
